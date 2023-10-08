@@ -1,5 +1,9 @@
 # Result Scraper
 
+## ⚠️ It doesn't work anymore: They put the site behind Cloudflare.
+
+---
+
 Fetches results from the [results page](https://results.cvr.ac.in/cvrresults/resulthome.php) of [CVR College of Engineering](https://cvr.ac.in/) and outputs in CSV format.
 
 ## Usage instructions:
